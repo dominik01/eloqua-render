@@ -1,0 +1,22 @@
+{
+  "name": "eloqua-render",
+  "version": "1.0.0",
+  "description": "eloqua",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dominik01/eloqua-render.git"
+  },
+  "keywords": [
+    "eloqua"
+  ],
+  "author": "Dominik Knechta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dominik01/eloqua-render/issues"
+  },
+  "homepage": "https://github.com/dominik01/eloqua-render#readme"
+}
